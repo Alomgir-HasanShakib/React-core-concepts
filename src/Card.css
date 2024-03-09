@@ -1,0 +1,13 @@
+.main-div {
+  border: 2px solid rebeccapurple;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: aquamarine;
+  margin-bottom: 10px;
+}
+.sub-div {
+  padding: 10px 50px;
+}
+.sub-div h2 {
+  font-size: 20px;
+}
